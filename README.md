@@ -1,5 +1,5 @@
 ## Hi there! 👋   I am Ravindra Pandya.
-
+## 
 <img align="center" alt="Certified Engineer" width="750" src="v7.png" />
 
 ## Lead Software Engineer | Solutions Architect | Technology Consulting
@@ -7,15 +7,16 @@
 ## AWS Certified Machine Learning Specialty
 ## AWS Certified Solutions Architect
 
-- 📫 How to reach me **kampvt07@gmail.com**   -  Connect with me <a href="https://www.linkedin.com/in/ravindrapandya/" target="blank"><img align="center" src="linked-in-alt.svg" alt="/in/ravindrapandya" height="30" width="40" /></a>
+-  Connect with me <a href="https://www.linkedin.com/in/ravindrapandya/" target="blank"><img align="center" src="linked-in-alt.svg" alt="/in/ravindrapandya" height="30" width="40" /></a>  - 📫 Email: **kampvt07@gmail.com**
 
-
+#
 ### 📋 My Projects
 
 | Project Name                           | Domain         | Repository Link                                                                    | Libraries                              |
 | -------------------------------------- | -------------- | ---------------------------------------------------------------------------------- | -------------------------------------- |
-| **AI based Investment Advisor**        | AI             |[AI Based Investment Advisor](https://github.com/ravindraptech/ai-investment-advisor)| `Python • Streamlit • Genrative Ai • ChromaDB   |
-
+| **AI based Investment Advisor**        | AI             |[AI Based Investment Advisor](https://github.com/ravindraptech/ai-investment-advisor)| `Python • Streamlit • Genrative Ai • ChromaDB`   |
+#
+#
 
 <!--
 **ravindraptech/ravindraptech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
