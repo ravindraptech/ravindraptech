@@ -7,7 +7,7 @@
 ## AWS Certified Machine Learning Specialty
 ## AWS Certified Solutions Architect
 
--  Connect with me <a href="https://www.linkedin.com/in/ravindrapandya/" target="blank"><img align="center" src="linked-in-alt.svg" alt="/in/ravindrapandya" height="30" width="40" /></a>  - 📫 Email: **kampvt07@gmail.com**
+-  Connect with me: <a href="https://www.linkedin.com/in/ravindrapandya/" target="blank"><img align="center" src="linked-in-alt.svg" alt="/in/ravindrapandya" height="20" width="30" /></a>          📫 Email: **kampvt07@gmail.com**
 
 #
 ### 📋 My Projects
