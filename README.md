@@ -1,9 +1,11 @@
-## Hi there 👋 I am Ravindra Pandya!
+## Hi there! 👋   I am Ravindra Pandya.
 
 <img align="center" alt="Certified Engineer" width="750" src="v7.png" />
 
-## Lead Software Engineer | Generative AI | Cloud | 3x AWS | Python | Java | ex J.P. Morgan | Technology Trainer
-## AWS Certified Machine Learning Specialty, Solution Architect
+## Lead Software Engineer | Solutions Architect | Technology Consulting
+## Generative AI | Cloud | 3x AWS | Python | Java
+## AWS Certified Machine Learning Specialty
+## AWS Certified Solutions Architect
 
 - 📫 How to reach me **kampvt07@gmail.com**
   
