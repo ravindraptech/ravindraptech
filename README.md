@@ -7,9 +7,14 @@
 ## AWS Certified Machine Learning Specialty
 ## AWS Certified Solutions Architect
 
-- 📫 How to reach me **kampvt07@gmail.com**
-  
-- Connect with me <a href="https://www.linkedin.com/in/ravindrapandya/" target="blank"><img align="center" src="linked-in-alt.svg" alt="/in/ravindrapandya" height="30" width="40" /></a>
+- 📫 How to reach me **kampvt07@gmail.com**   -  Connect with me <a href="https://www.linkedin.com/in/ravindrapandya/" target="blank"><img align="center" src="linked-in-alt.svg" alt="/in/ravindrapandya" height="30" width="40" /></a>
+
+
+### 📋 My Projects
+
+| Project Name                           | Domain         | Repository Link                                                                    | Libraries                              |
+| -------------------------------------- | -------------- | ---------------------------------------------------------------------------------- | -------------------------------------- |
+| **AI based Investment Advisor**        | AI             |[AI Based Investment Advisor](https://github.com/ravindraptech/ai-investment-advisor)| `Python • Streamlit • Genrative Ai • ChromaDB   |
 
 
 <!--
