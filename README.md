@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+## Lead Software Engineer | Generative AI | Cloud | 3x AWS | Solution Architect | Python | Java | ex J.P. Morgan | Technology Trainer
+
+
 <!--
 **ravindraptech/ravindraptech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
