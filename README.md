@@ -14,7 +14,7 @@
 
 | Project Name                           | Domain         | Repository Link                                                                    | Libraries                              |
 | -------------------------------------- | -------------- | ---------------------------------------------------------------------------------- | -------------------------------------- |
-| **AI based Investment Advisor**        | AI             |[AI Based Investment Advisor](https://github.com/ravindraptech/ai-investment-advisor)| `Python • Streamlit • Genrative Ai • ChromaDB`   |
+| **AI based Investment Advisor**        | AI             |[AI Based Investment Advisor](https://github.com/ravindraptech/ai-investment-advisor) | `Genrative AI • Python • Streamlit • ChromaDB` |
 #
 #
 
