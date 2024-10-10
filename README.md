@@ -1,9 +1,10 @@
 ## Hi there 👋
-## I am Ravindra Pandya!
-# Lead Software Engineer | Generative AI | Cloud | 3x AWS | Python | Java | ex J.P. Morgan | Technology Trainer
-# AWS Certified Machine Learning Specialty, Solution Architect
 
-<img align="right" alt="Certified Engineer" width="620" src="https://drive.google.com/file/d/1WWCejyr7q9vGDI6wO8_74-01WeARrw2m/view" />
+## I am Ravindra Pandya!
+## Lead Software Engineer | Generative AI | Cloud | 3x AWS | Python | Java | ex J.P. Morgan | Technology Trainer
+## AWS Certified Machine Learning Specialty, Solution Architect
+
+<img align="right" alt="Certified Engineer" width="620" src="v7.png" /> <!-- https://drive.google.com/file/d/1WWCejyr7q9vGDI6wO8_74-01WeARrw2m/view -->
 
 
 <!--
