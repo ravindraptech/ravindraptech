@@ -1,14 +1,15 @@
 ## Hi there! 👋   I am Ravindra Pandya.
-## 
+<br />
 <img align="center" alt="Certified Engineer" width="750" src="v7.png" />
-
-- Lead Software Engineer | Solutions Architect | Technology Consulting
+<br />
+** - Lead Software Engineer | Solutions Architect | Technology Consulting **
 - Generative AI | Cloud | 3x AWS | Python | Java
 - AWS Certified Machine Learning Specialty
 - AWS Certified Solutions Architect
-
--  Connect with me: <a href="https://www.linkedin.com/in/ravindrapandya/" target="blank"><img align="center" src="linked-in-alt.svg" alt="/in/ravindrapandya" height="20" width="30" /></a>          📫 Email: **kampvt07@gmail.com**
-
+  
+<br />
+-  Connect with me: <a href="https://www.linkedin.com/in/ravindrapandya/" target="blank"><img align="center" src="linked-in-alt.svg" alt="/in/ravindrapandya" height="20" width="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;  📫 Email: **kampvt07@gmail.com**
+<br />
 #
 ### 📋 My Projects
 
