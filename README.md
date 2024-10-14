@@ -11,14 +11,14 @@
 -  Connect with me: <a href="https://www.linkedin.com/in/ravindrapandya/" target="blank"><img align="center" src="linked-in-alt.svg" alt="/in/ravindrapandya" height="20" width="30" /></a>
 - 📫 Email: **kampvt07@gmail.com**
 
-#
+# 
 ### 📋 My Projects
 
 | Project Name                           | Domain         | Repository Link                                                                    | Libraries                              |
 | -------------------------------------- | -------------- | ---------------------------------------------------------------------------------- | -------------------------------------- |
 | **AI based Investment Advisor**        | AI             |[AI Based Investment Advisor](https://github.com/ravindraptech/ai-investment-advisor) | `Genrative AI • Python • Streamlit • ChromaDB` |
-#
-#
+# 
+# 
 
 <!--
 **ravindraptech/ravindraptech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
