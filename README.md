@@ -17,9 +17,10 @@
 
 | Project Name                           | Demo         | Repository Link                                                                    | Libraries                              |
 | -------------------------------------- | -------------- | ---------------------------------------------------------------------------------- | -------------------------------------- |
-| **Customer Service Assistant - ChatBot using ChatGPT API**  | #demo-link-todo | [ChatBot](https://github.com/ravindraptech/ai-chatbot) | `Genrative AI • RAG • Python • Streamlit • ChromaDB` |
-| **AI based Investment Advisor**        | #demo-link-todo | [AI Based Investment Advisor](https://github.com/ravindraptech/ai-investment-advisor) | `Genrative AI • Python • Streamlit • ChromaDB` |
-| **Creating a Content-Based Recommendation System (NLP)**  | #demo-link-todo | [Recommendation System - NLP](https://github.com/ravindraptech/ai-nlp-recommendation-system) | `NLP • Python • Streamlit` |
+| **Customer Service Assistant - ChatBot using ChatGPT API**  | (Demo - ChatBot)[#] | [ChatBot](https://github.com/ravindraptech/ai-chatbot) | `Genrative AI • RAG • Python • Streamlit • ChromaDB` |
+| **AI based Investment Advisor**        | (Demo - Inv. Adv.)[#] | [AI Based Investment Advisor](https://github.com/ravindraptech/ai-investment-advisor) | `Genrative AI • Python • Streamlit • ChromaDB` |
+| **Creating a Content-Based Recommendation System (NLP)**  | [Demo - Rec. Sys.](#) | [Recommendation System - NLP](https://github.com/ravindraptech/ai-nlp-recommendation-system) | `NLP • Python • Streamlit` |
+| **Document QnA**  | [Demo - Doc QnA](https://ravindrap-document-app.streamlit.app/) | [Document QnA](https://github.com/ravindraptech/document-qa) | `Generative AI • Python • OpenAI • Streamlit` |
 # 
 # 
 
