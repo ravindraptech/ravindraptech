@@ -1,4 +1,4 @@
-## Hi there! 👋   I am Ravindra Pandya.
+## Hi there! 👋   I am Ravindra Pandya. <a href="https://www.linkedin.com/in/ravindrapandya/" target="blank"><img align="center" src="linked-in-alt.svg" alt="/in/ravindrapandya" height="20" width="30" /></a>    📫 **kampvt07@gmail.com**
 #
 <img align="center" alt="Certified Engineer" width="750" src="v7.png" />
 
@@ -9,9 +9,6 @@
 - AWS Certified Solutions Architect
   
 # 
--  Connect with me: <a href="https://www.linkedin.com/in/ravindrapandya/" target="blank"><img align="center" src="linked-in-alt.svg" alt="/in/ravindrapandya" height="20" width="30" /></a>
-- 📫 Email: **kampvt07@gmail.com**
-
 # 
 ### 📋 My Projects
 
