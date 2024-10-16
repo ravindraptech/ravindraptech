@@ -1,9 +1,8 @@
 ## Hi there! 👋   I am Ravindra Pandya. <a href="https://www.linkedin.com/in/ravindrapandya/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="/in/ravindrapandya" /></a>   
 #
-<div><img align="center" alt="Certified Engineer" width="750" src="v7.png" /></div> 
-# 
-###  Lead Software Engineer | Solutions Architect | Technology Consulting
+<img align="center" alt="Certified Engineer" width="750" src="v7.png" />
 
+- Lead Software Engineer | Solutions Architect | Technology Consulting
 - Generative AI | Cloud | 3x AWS | Python | Java
 - AWS Certified Machine Learning Specialty
 - AWS Certified Solutions Architect
