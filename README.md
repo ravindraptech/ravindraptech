@@ -1,20 +1,5 @@
 ## Hi there! 👋   I am Ravindra Pandya. <a href="https://www.linkedin.com/in/ravindrapandya/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="/in/ravindrapandya" /></a>   
 #
-<div>
-  <p align="center">
-    <a
-    href="#">
-        <img src="https://img.shields.io/badge/X/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
-    </a>
-    <a href="https://www.linkedin.com/in/ravindrapandya/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="#">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-    </a>
-  </p>
-</div>
-
 <div><img align="center" alt="Certified Engineer" width="750" src="v7.png" /></div>
 
 ###  Lead Software Engineer | Solutions Architect | Technology Consulting
