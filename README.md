@@ -1,4 +1,4 @@
-## Hi there! 👋   I am Ravindra Pandya. <a href="https://www.linkedin.com/in/ravindrapandya/" target="blank"><img align="center" src="linked-in-alt.svg" alt="/in/ravindrapandya" height="20" width="30" /></a>    📫 **kampvt07@gmail.com**
+## Hi there! 👋   I am Ravindra Pandya. <a href="https://www.linkedin.com/in/ravindrapandya/" target="blank"><img align="center" src="linked-in-alt.svg" alt="/in/ravindrapandya" height="20" width="30" /></a>   
 #
 <img align="center" alt="Certified Engineer" width="750" src="v7.png" />
 
@@ -19,6 +19,7 @@
 | **Creating a Content-Based Recommendation System (NLP)**  | [App - Rec. Sys.](#) | [Recommendation System - NLP](https://github.com/ravindraptech/ai-nlp-recommendation-system) | `NLP • Python • Streamlit` |
 | **Document QnA**  | [App - Doc QnA](https://ravindrap-document-app.streamlit.app/) | [Document QnA](https://github.com/ravindraptech/document-qa) | `Generative AI • Python • OpenAI • Streamlit` |
 # 
+-  Connect on email: 📫 **kampvt07@gmail.com**
 # 
 
 <!--
