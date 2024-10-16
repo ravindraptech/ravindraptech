@@ -1,4 +1,4 @@
-## Hi there! 👋   I am Ravindra Pandya. <a href="https://www.linkedin.com/in/ravindrapandya/" target="blank"><img align="center" src="linked-in-alt.svg" alt="/in/ravindrapandya" height="20" width="30" /></a>   
+## Hi there! 👋   I am Ravindra Pandya. <a href="https://www.linkedin.com/in/ravindrapandya/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="/in/ravindrapandya" height="20" width="30" /></a>   
 #
 <div>
   <p align="center">
