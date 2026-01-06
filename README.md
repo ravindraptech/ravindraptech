@@ -3,7 +3,7 @@
 <img align="center" alt="Certified Engineer" width="750" src="v7.png" />
 
 - Lead Software Engineer | Solutions Architect | Technology Consulting
-- Generative AI | Cloud | 5x AWS | Python | Java
+- Generative AI | Cloud | 6x AWS | Python | Java
 - AWS Certified Machine Learning Specialty, Security Sepcialty
 - AWS Certified Solutions Architect
 
